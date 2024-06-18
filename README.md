@@ -1,5 +1,5 @@
 # espomodoro
-An ESP32-based Pomodoro timer using the Arduino framework. Built to work on an 128x160 ST7735/7789 display and those generic Aliexpress 4x4 keypads. 
+An ESP32-based Pomodoro timer using the Arduino framework. Built to work on an 128x160 ST7735/7789 display and those generic Aliexpress 4x4 keypads. Uses the Adafruit ST77XX library and the Keypad library.
 
 Connections:
  - 4x4 keypad (from leftmost pin): D32, D33, D25, D26, D27, D14, D12, D13
